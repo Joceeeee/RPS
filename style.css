@@ -14,9 +14,13 @@ body{
     padding: 5px 20px;
     border-radius: 50%;
     font-size: 65px;
-    
 }
 
 .circle:hover {
     background-color: gray;
+}
+
+.instruction {
+    text-align: center;
+    font-size: 60%;
 }
